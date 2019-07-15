@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+}
+img {-webkit-box-shadow: 0px 0px 38px 12px rgba(0,0,0,0.57); 
+box-shadow: 0px 0px 38px 12px rgba(0,0,0,0.57);}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    
+    
+    background-image: url("http://www.baltana.com/files/wallpapers-11/Kendrick-Lamar-Desktop-Wallpaper-30646.jpg");
+    background-repeat: no-repeat;
+     background-position: left;
+    margin-right: 2%;
+    margin-left: 2%;
+    background-attachment: fixed;
+    background-size:100%
+}
+
+h1 {color:black;
+font-family: sans-serif;
+font-family: Impact, Charcoal, sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: -1.8px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+text-shadow: -2px 3px 4px rgba(28,110,164,0.58);}
+
+h4 {color:darkgray;
+font-family: sans-serif;
+font-family: Impact, Charcoal, sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: -1.8px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+text-shadow: -2px 3px 4px rgba(28,110,164,0.58);}
+.white {
+    font-family:times;
+}
+   
+p {color: black;}
+h2 {color: white;}
+    
+/* Style the header */
+header {color: #e0dfdc;
+background-color: #567;
+letter-spacing: .1em;
+text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0, 0, 0, 0.9);
+    font-family: Impact, Charcoal, sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: -1.8px;
+
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+    background-color: transparent;
+    padding: 30px;
+    font-family: Impact, Charcoal, sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: -1.8px;
+
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+    text-align: center;font-family: Impact, Charcoal, sans-serif;
+font-size: 30px;
+letter-spacing: 2px;
+word-spacing: -1.8px;
+
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+h2 {
+    
+    font-family: Garamond;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+    -webkit-box-shadow: 0px 0px 38px 12px rgba(0,0,0,0.57); 
+box-shadow: 0px 0px 38px 12px rgba(0,0,0,0.57);
+   
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header { background-image: url(http://peak24.com.au/wp-content/uploads/2015/03/dark-backgrounds-15-cool-hd-background-and-wallpaper.jpg);
+background-attachment: fixed;}
+.musicheader { background-attachment: fixed;
+background-image: url(data:image/jpeg;base64,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)}
+/* Style the content */
+article {
+    background-attachment: fixed;
+    background-image: url(https://www.planwallpaper.com/static/images/518079-background-hd.jpg);
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+/* Style the footer */
+footer {
+    
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+}
